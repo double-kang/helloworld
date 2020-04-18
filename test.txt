@@ -2,3 +2,8 @@ hello world
 so nice
 add one
 new branch
+<<<<<<< HEAD
+=======
+quick & simple
+fuck
+>>>>>>> dev
